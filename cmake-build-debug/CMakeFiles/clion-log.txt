@@ -1,0 +1,4 @@
+/snap/clion/151/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/main/Projects/BinaryTree
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/main/Projects/BinaryTree/cmake-build-debug

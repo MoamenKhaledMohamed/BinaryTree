@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/main/Projects/BinaryTree/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+string
+-
+
